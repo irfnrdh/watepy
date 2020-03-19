@@ -79,7 +79,7 @@ def main(folder, watermark):
                 print("Detection -  Landscape")
             if hasil == 0:
                 rl_width = int(imageWidth * 50 / 100)
-                rl_height = int(imageHeight * 50 / 100)
+                rl_height = int(imageHeight * 8 / 100)
                 print("Detection -  Squere")
 
             # Resize gambar
