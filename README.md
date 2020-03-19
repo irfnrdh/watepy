@@ -24,3 +24,8 @@ script ini akan menambahkan watermark pada gambar didalam satu folder yang spesi
 ### Kelemahan (BUG)
 - Untuk photo yang tidak jelas potrait atau landscape maka logo watermark akan kelihatan tidak simetris
 - Hasil export masih dalam satu folder, Belum bisa mengexport dengan folder inputan yang sama (19 mar 20)
+
+## Tambahan
+- User Interface
+- Transparansi watermark dengan coding
+- watermark dengan inputan tulisan
