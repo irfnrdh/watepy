@@ -95,8 +95,9 @@ def main(folder, watermark):
             # Bottom Right  -> (imageWidth - logoWidth, imageHeight - logoHeight)
 
             # menyimpan gambar
+
             image.paste(logoh, position, logoh)
-            image.save('output/' + gambar)
+            image.save('output/' + gambar)  # 'JPG', quality=30
 
 
 if __name__ == '__main__':
