@@ -19,6 +19,7 @@ script ini akan menambahkan watermark pada gambar didalam satu folder yang spesi
 
 ### Last Update
 - optimasi auto resize logo watermark untuk potrait dan landscape
+- pembaharuan deteksi posisi gambar untuk resize logo watermark (19 mar 20)
 
 ### Kelemahan
 - Untuk photo yang tidak jelas potrait atau landscape maka logo watermark akan kelihatan tidak simetris
